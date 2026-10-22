@@ -1,1 +1,1 @@
-Resolved message
+Change from feature branch
