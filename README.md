@@ -1,1 +1,1 @@
-My first commit
+# Git Intro Project
